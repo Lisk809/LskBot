@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "qq": 2196906351,
+        "password": "edogawaconan4869",
+        "login_mode": "password",
+        "device_lock":"SMS",
+	"admins":3549916684
+    },
+    "oicq":{
+	"platform":5
+
+    }
+}

@@ -1,2 +1,2 @@
 # LskBot
-基于oicqv2的异步NodejsQQ聊天机器人框架
+基于oicqV2的异步跨平台NodejsQQ聊天机器人框架
