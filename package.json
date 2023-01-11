@@ -1,6 +1,6 @@
 {
   "name": "lskbot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "基于Onebot(原cqhttp)标准的异常跨平台NodejsQQ聊天机器人框架",
   "main": "lib/index.js",
   "directories": {
